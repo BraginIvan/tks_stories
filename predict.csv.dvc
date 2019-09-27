@@ -1,0 +1,7 @@
+md5: c748e21ecdebcb2f7d2e677a165d4e9c
+outs:
+- md5: 3ad65370c5964d06f26982196d148126
+  path: predict.csv
+  cache: true
+  metric: false
+  persist: false
