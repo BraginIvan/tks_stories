@@ -3,3 +3,5 @@
 venv
 .ipynb_checkpoints/
 /predict.csv
+cat_feature_index*
+catboost_info
